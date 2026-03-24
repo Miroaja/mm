@@ -1,0 +1,9 @@
+[submodule "mm-rational"]
+	path = mm-rational
+	url = https://github.com/Miroaja/mm-rational.git
+[submodule "mm-timed"]
+	path = mm-timed
+	url = https://github.com/Miroaja/mm-timed
+[submodule "mm-ecs"]
+	path = mm-ecs
+	url = https://github.com/Miroaja/mm-ecs
